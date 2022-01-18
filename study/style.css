@@ -1,3 +1,12 @@
 body {
-    background-color: beige;
+  background-color: beige;
+}
+
+h1 {
+  color: cornflowerblue;
+  transition: color 1s ease-in-out;
+}
+
+.clicked {
+  color: tomato;
 }
